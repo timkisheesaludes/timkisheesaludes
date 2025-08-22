@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Tim Kishee Saludes  
 
-<!--
-**timkisheesaludes/timkisheesaludes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📌 Introduction  
+I am a 4th year BSIT student interested in web designing, with a passion for graphic designing.  
 
-Here are some ideas to get you started:
+## 🎯 Goals  
+- To learn more about graphic designing  
+- To adapt and improve in web designing  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills  
+- Python  
+- SQL  
+- Flask  
+- Figma  
+
+## 📬 Contact  
+📧 Email: **timkisheesaludes11@gmail.com**
